@@ -1,0 +1,10 @@
+E:\Projects\Iospect\Iospect\IospectAPI.Common\bin\Debug\netcoreapp3.1\IospectAPI.Common.deps.json
+E:\Projects\Iospect\Iospect\IospectAPI.Common\bin\Debug\netcoreapp3.1\IospectAPI.Common.dll
+E:\Projects\Iospect\Iospect\IospectAPI.Common\bin\Debug\netcoreapp3.1\IospectAPI.Common.pdb
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.AssemblyInfoInputs.cache
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.AssemblyInfo.cs
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.csproj.CoreCompileInputs.cache
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.dll
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.pdb
+E:\Projects\Iospect\Iospect\IospectAPI.Common\obj\Debug\netcoreapp3.1\IospectAPI.Common.csproj.AssemblyReference.cache

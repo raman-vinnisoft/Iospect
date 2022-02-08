@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IospectAPI</name>
+    </assembly>
+    <members>
+        <member name="T:IospectAPI.Controllers.AccountController">
+            <summary>
+            AccountController
+            </summary>
+        </member>
+        <member name="M:IospectAPI.Controllers.AccountController.#ctor(IospectAPI.Services.Abstraction.Contracts.IAccountService)">
+            <summary>
+            AccountController
+            </summary>
+            <param name="accountService"></param>
+        </member>
+        <member name="M:IospectAPI.Controllers.AccountController.GetAccounts">
+            <summary>
+            GetAccounts
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:IospectAPI.Controllers.AccountController.GetAccountTransactions(System.Int32)">
+            <summary>
+            GetAccountTransactions
+            </summary>
+            <param name="accountId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:IospectAPI.Controllers.AccountController.AddAccount(IospectAPI.Services.Abstraction.Models.AccountModel)">
+            <summary>
+            AddAccount
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:IospectAPI.Controllers.AccountController.PutDeposit(IospectAPI.Services.Abstraction.Models.TransactionModel)">
+            <summary>
+            PutDeposit
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:IospectAPI.Controllers.AccountController.PutWithdraw(IospectAPI.Services.Abstraction.Models.TransactionModel)">
+            <summary>
+            PutDeposit
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

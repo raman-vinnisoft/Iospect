@@ -1,0 +1,10 @@
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\bin\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.deps.json
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\bin\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.dll
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\bin\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.pdb
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.AssemblyInfoInputs.cache
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.AssemblyInfo.cs
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.csproj.CoreCompileInputs.cache
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.dll
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.pdb
+E:\Projects\Iospect\Iospect\IospectAPI.Repositories.Abstraction\obj\Debug\netcoreapp3.1\IospectAPI.Repositories.Abstraction.csproj.AssemblyReference.cache

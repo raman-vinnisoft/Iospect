@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApptHeroAPI",
+    "\\ApptHeroAPI.Common",
+    "\\ApptHeroAPI.Common\\Utilities",
+    "\\ApptHeroAPI.Repositories.Implementation",
+    "\\ApptHeroAPI.Repositories.Implementation\\Concrete",
+    "\\ApptHeroAPI.Services.Implementation",
+    "\\ApptHeroAPI.Services.Implementation\\Concrete"
+  ],
+  "SelectedNode": "\\ApptHeroAPI.Repositories.Implementation\\Concrete\\AppointmentRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

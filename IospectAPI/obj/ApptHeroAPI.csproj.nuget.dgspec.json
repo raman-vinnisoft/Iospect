@@ -1,0 +1,522 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI\\ApptHeroAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj",
+        "projectName": "ApptHeroAPI.Common",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj",
+        "projectName": "ApptHeroAPI.Repositories.Abstraction",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj",
+        "projectName": "ApptHeroAPI.Repositories.Context",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Implementation\\ApptHeroAPI.Repositories.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Implementation\\ApptHeroAPI.Repositories.Implementation.csproj",
+        "projectName": "ApptHeroAPI.Repositories.Implementation",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Implementation\\ApptHeroAPI.Repositories.Implementation.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj",
+        "projectName": "ApptHeroAPI.Services.Abstraction",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Implementation\\ApptHeroAPI.Services.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Implementation\\ApptHeroAPI.Services.Implementation.csproj",
+        "projectName": "ApptHeroAPI.Services.Implementation",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Implementation\\ApptHeroAPI.Services.Implementation.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Common\\ApptHeroAPI.Common.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI\\ApptHeroAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI\\ApptHeroAPI.csproj",
+        "projectName": "ApptHeroAPI",
+        "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI\\ApptHeroAPI.csproj",
+        "packagesPath": "C:\\Users\\pawan.arora.TMOTIONS\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pawan.arora.TMOTIONS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Abstraction\\ApptHeroAPI.Repositories.Abstraction.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Context\\ApptHeroAPI.Repositories.Context.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Implementation\\ApptHeroAPI.Repositories.Implementation.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Repositories.Implementation\\ApptHeroAPI.Repositories.Implementation.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Abstraction\\ApptHeroAPI.Services.Abstraction.csproj"
+              },
+              "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Implementation\\ApptHeroAPI.Services.Implementation.csproj": {
+                "projectPath": "E:\\Projects\\Iospect\\Iospect\\ApptHeroAPI.Services.Implementation\\ApptHeroAPI.Services.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

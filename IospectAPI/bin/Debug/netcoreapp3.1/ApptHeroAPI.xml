@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApptHeroAPI</name>
+    </assembly>
+    <members>
+        <member name="T:ApptHeroAPI.Controllers.AuthenticateController">
+            <summary>
+            Authenticates the user, Generates token and reset the password.
+            </summary>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.AuthenticateController.#ctor(ApptHeroAPI.Services.Abstraction.Contracts.IAuthService)">
+            <summary>
+            Controller constructer that takes Authentication service as parameter.
+            </summary>
+            <param name="authenticationService"></param>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.AuthenticateController.GetToken(ApptHeroAPI.Services.Abstraction.Models.LoginModel)">
+            <summary>
+            Authenticates and generates the JWT token.
+            </summary>
+            <param name="userName">User email address</param>
+            <param name="password">User password</param>
+            <returns>JWT token string.</returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.AuthenticateController.ForgotPassword(System.String)">
+            <summary>
+            Generated and send OTP to reset the password.
+            </summary>
+            <param name="emailAddress">Fields required to reset the password</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.AuthenticateController.ResetPassword(ApptHeroAPI.Models.ResetPasswordModel)">
+            <summary>
+            Reset the password.
+            </summary>
+            <param name="resetPasswordModel">Fields required to reset the password</param>
+            <returns></returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.AuthenticateController.ValidateOTP(System.String,System.String)">
+            <summary>
+            Validates the OTP.
+            </summary>
+            <param name="emailAddress"></param>
+            <param name="oTP"></param>
+            <returns>Authentication token valid for 5 mins.</returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.AuthenticateController.ResetPasswordForOTP(ApptHeroAPI.Models.ResetPasswordModel)">
+            <summary>
+            Reset password in case of the forgot password pattern (OTP)
+            </summary>
+            <param name="resetPasswordModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.ClientController.GetClients(System.Int64,System.String)">
+            <summary>
+            List of clients available under given CompanyId
+            </summary>
+            <param name="companyId">Company ID</param>
+            <returns>List of clients</returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.ClientController.GetClient(System.Int64)">
+            <summary>
+            Client details for the given id.
+            </summary>
+            <param name="id">Id of the client</param>
+            <returns>Client details</returns>
+        </member>
+        <member name="M:ApptHeroAPI.Controllers.ClientController.UpdateBanStatus(System.Int64,System.Boolean)">
+            <summary>
+            Changes or updates the ban status of the client.
+            </summary>
+            <param name="id">Client Id</param>
+            <param name="status">Ban status that needs to be updated</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
